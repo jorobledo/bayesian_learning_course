@@ -1,9 +1,9 @@
-# Introduction to Bayesian Learning 2025
+# Introduction to Bayesian Learning 2026
 
 Contact: Alina Bazarova, Jose Robledo
 
-- Start date: 24 March 2025
-- End date: 28 March 2025
+- Start date: 16 March 2026
+- End date: 20 March 2026
 - Location: Online. The link to the streaming platform will be provided to the registrants only.
 
 Welcome to the **Introduction to Bayesian Learning Course**! This course is designed to provide a deep understanding of Bayesian inference, probability distributions, and real-world applications.

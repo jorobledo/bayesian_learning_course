@@ -1,0 +1,18 @@
+80 people registered, 60 shown up on the first day, 46 in the second, degraded to around 30 in the end
+
+slides regarding the last day need to be updated - they are a bit primitive and require reading a lot of material in the notebooks
+
+1st day = first notebook+lecture, 25 min to set things up (forgot to have a break)
+2nd day = second notebook
+3rd day = 3rd notebook without Laplace approximation
+4th day = Laplace approximation and Variational Bayes (tough, not many questions)
+5th day BNN, VAE normalising flows - actually was tough, but possibly setbacks because of updating teh notebooks during the course => not everybody was on the same page
+mb better explain aleatoric/epistemic
+
+
+This time the audience engaged less, but we still ran up to 17.05 on the last day
+
+compute: asked for 60000, we used 25000 on the first day, asked for another 25000, by day 5 used 82000, so I asked for another 15000 - 100000 overall
+
+jupyter ran well
+
